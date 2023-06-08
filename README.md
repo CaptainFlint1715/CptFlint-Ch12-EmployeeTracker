@@ -34,3 +34,6 @@ NA
 
 chanseshirley123@gmail.com
 
+[link to video](./assets/video/demovid.webm)
+OR (https://drive.google.com/file/d/1Psb0uKvQywAUHhyR383Wzkllw6DRfm_5/view)
+
